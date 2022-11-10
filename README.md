@@ -21,12 +21,8 @@ python3 Calc.py
 
 # How to use
 
-The ply la calc uses simple addition, subtraction, multiplication and division commands i.e
+The ply la calc uses simple addition, subtraction, multiplication and division commands that can be found on the coms.md file
 
-+
--
-*
-/
 
 # Documentation
 
