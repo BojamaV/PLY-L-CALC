@@ -13,7 +13,7 @@ https://pypi.org/project/ply/
 https://www.python.org/downloads/
 https://pip.pypa.io/en/stable/cli/pip_install/
 ______________________________________________
-git clone 
+git clone https://github.com/BojamaV/PLY-LA-CALC.git
 
 cd PLY-LA-CALC
 
