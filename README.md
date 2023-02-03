@@ -17,7 +17,7 @@ git clone https://github.com/BojamaV/PLY-LA-CALC.git
 
 cd PLY-LA-CALC
 
-python3 Calc.py
+python3 calc.py
 
 # How to use
 
